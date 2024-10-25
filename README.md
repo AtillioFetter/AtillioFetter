@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Atillio!  
 
-<!--
-**AtillioFetter/AtillioFetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer @ Everysk**  
+🇧🇷 Brazilian & 🇮🇹 Italian | Passionate about tech and automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tech Stack**  
+- **Languages**: Python, JavaScript  
+- **Frontend**: React, CSS  
+- **Scripting & Automation**: Bash  
+
+---
+
+## 🚀 **About Me**  
+I'm a software engineer with a background in Control and Automation Engineering. I thrive on building efficient solutions and contributing to impactful projects. Currently, I’m working at **Everysk**, where I apply my expertise to develop scalable software.
+
+---
+
+## 🌐 **Languages**  
+- Fluent: English, Portuguese, Italian  
+- Learning: Spanish, French  
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories or connect with me. Let's build something amazing! 🚀
